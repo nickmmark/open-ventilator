@@ -24,6 +24,7 @@ The ideal project would be able to demonstrate:
 
 
 ### references
-A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents
-Open-Source Syringe Pump Library
+* [A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719309/)
+* [Open-Source Syringe Pump Library](https://www.appropedia.org/Open-source_syringe_pump)
+* [Programmable Air](https://www.programmableair.com/)
 
