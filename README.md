@@ -6,8 +6,11 @@ The goal of this project is to build a simple mechanical ventilator that facilit
 
 Mechanical ventilators are complex machines and often the best way to understand the nuances is to tinker with an open-source version. Unfortunately, ventilators aren't cheap (even the lowest cost veterinary ventilator will typically set you back at least $500) and no open source ventilator exists at any price.
 
-The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for 
+The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for biomedical engineers and healthcare professionals to understand mechanical ventilation.
 
+![high level system architecture](https://github.com/nickmmark/open-ventilator/blob/master/figures/open_vent_components.png)
+
+### objectives
 The ideal project would be able to:
 * provide mandatory ***volume control*** ventilation - deliver a ```tidal volume``` at a set ```rate```
 * provide mandator ***pressure control*** ventilation - deliver a ```inspiratory pressure``` for a ```inspiratory time``` at a set ```rate```
