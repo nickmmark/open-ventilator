@@ -4,7 +4,7 @@ open source mechanical ventilator for educational purposes
 ### background
 The goal of this project is to build a simple mechanical ventilator that facilitates understanding of the mechanics and technology in modern ventilators. The purpose is pedagogical; ***this is not intended for medical or veterinary use.***
 
-Mechanical ventilators are complex machines and often the best way to understand the nuances is to tinker with an open-source version. Unfortunately, ventilators aren't cheap (even the lowest cost veterinary ventilator will typically set you back at least $500) and no open source ventilator exists at any price.
+Mechanical ventilators are complex machines and often the best way to understand the nuances is to tinker with an open-source version. Unfortunately, ***_ventilators aren't cheap_*** (even the lowest cost veterinary ventilator will typically set you back at least $500) and ***_no open source ventilator exists_***.
 
 The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for biomedical engineers and healthcare professionals to understand mechanical ventilation.
 
