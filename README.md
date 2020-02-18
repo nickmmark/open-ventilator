@@ -6,6 +6,8 @@ The goal of this project is to build a simple mechanical ventilator that facilit
 
 Mechanical ventilators are complex machines and often the best way to understand the nuances is to tinker with an open-source version. Unfortunately, ***_ventilators aren't cheap_*** (even the lowest cost veterinary ventilator will typically set you back at least $500) and ***_no open source ventilator exists_***.
 
+![](https://ars.els-cdn.com/content/image/3-s2.0-B9780323390064000259-f25-15-9780323390064.jpg)
+
 The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for biomedical engineers and healthcare professionals to understand mechanical ventilation.
 
 ### components
