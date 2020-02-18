@@ -10,9 +10,9 @@ The purpose of this project is to build a simple, open-source, mechanical ventil
 
 ### components
 There are three key components of the ***open-ventilator***:
-* the hardware - servo to force air into/out of a cylinder, solenoid valves to control airflow, and pressure sensors
-* the control system - a microcontroller that controls the hardware; ideally this should be a realtime system to enable quick and reliable responses
-* the interface - a computer connected to a touchscreen LCD display
+* the ***_hardware_*** - servo to force air into/out of a cylinder, solenoid valves to control airflow, and pressure sensors
+* the ***_control system_*** - a microcontroller (e.g. [Arduino Micro](https://store.arduino.cc/usa/arduino-micro) that controls the hardware; ideally this should be a realtime system to enable quick and reliable responses
+* the ***_user interface_*** - a single board computer (e.g. [RasPi 4](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/)) connected to a touchscreen LCD display
 
 ![high level system architecture](https://github.com/nickmmark/open-ventilator/blob/master/figures/open_vent_components.png)
 
