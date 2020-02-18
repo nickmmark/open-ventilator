@@ -10,6 +10,9 @@ Mechanical ventilators are complex machines. Often the best way to understand th
 
 The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for biomedical engineers and healthcare professionals to understand mechanical ventilation.
 
+For a primer on mechanical ventilation see [here](). For a history of how modern mechanical ventilators have evolved see [here]().
+
+
 ### components
 There are three key components of the ***open-ventilator***:
 * the ***_hardware_*** - servo to force air into/out of a cylinder, solenoid valves to control airflow, and pressure sensors
@@ -44,4 +47,5 @@ Furthermore, the [library](https://www.arduino.cc/en/hacking/libraries) that con
 * [A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719309/)
 * [Open-Source Syringe Pump Library](https://www.appropedia.org/Open-source_syringe_pump)
 * [Programmable Air](https://www.programmableair.com/)
+https://i2.wp.com/makerfaire.com/wp-content/uploads/gravity_forms/208-6bb1cbe29fec28d54a67e4aeaf9487ea/2018/09/Programmable-Air-PCB-Render.jpg?fit=750%2C500&strip=all&ssl=1
 * [Advanced Ventilator Modes](https://www.sap.org.ar/docs/congresos_2014/Emergencias%20y%20Cuidados%20Criticos/PDFs/venkataraman_modos_ventilatorios_avanzados.pdf)
