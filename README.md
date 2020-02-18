@@ -7,6 +7,7 @@ The goal of this project is to build a simple mechanical ventilator that facilit
 Mechanical ventilators are complex machines. Often the best way to understand the nuances of a complex machine is to tinker with a simple open-source version. Unfortunately, ***_ventilators aren't cheap_*** (even the lowest cost veterinary ventilator will typically set you back at least $500) and ***_no open source ventilator exists_***. This makes it hard for medical personnel (physicians, nurses, respiratory therapists, etc) and biomedical engineers to fully [grok](https://en.wikipedia.org/wiki/Grok) the technology they are working with and depend upon.
 
 ![](https://ars.els-cdn.com/content/image/3-s2.0-B9780323390064000259-f25-15-9780323390064.jpg)
+![](https://cdn.app.compendium.com/uploads/user/a862d463-3ea6-443a-9187-e1040e91eb0e/bc832350-01fa-407d-89bf-449d37d2cb84/Image/b49b97cad731d4e7ea6cb7f432e205b7/inspiratory_flow_diagram.jpg)
 
 The purpose of this project is to build a simple, open-source, mechanical ventilator (hardware, control system, and interface) that can be used as a starting point for biomedical engineers and healthcare professionals to understand mechanical ventilation.
 
