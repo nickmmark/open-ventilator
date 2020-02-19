@@ -50,7 +50,11 @@ The ideal project would be able to:
 ### user interface
 * the ideal user interface should be intuitive and straightforward
 * ideas that I have
-  * color code the text ```diff +volume, - pressure, flow```
+  * color code the text 
+    ```diff 
+    + volume 
+    - pressure 
+    flow```
 
 ### references
 * [A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719309/)
