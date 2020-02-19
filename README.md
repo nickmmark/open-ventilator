@@ -45,7 +45,7 @@ The ideal project would be able to:
   * ***automated delivery of ventilation*** - e.g. ```volumeControlStart (rate = 12, volume = 500)``` (begins volume control ventilation at a rate of 12 breaths per minute and a tidal volume of 500cc per breath)
   * ***administering advanced ventilatory maneuvers*** - e.g. ```inspiratoryHold()``` (deliver a breath, close the inspiratory and expiratory valves, and measure the airway pressure continuously)
 
-[figure - abstraction layers]
+![figure - abstraction layers](https://github.com/nickmmark/open-ventilator/blob/master/figures/library_hierarchy.png)
 
 ### user interface
 * the ideal user interface should be intuitive and straightforward
