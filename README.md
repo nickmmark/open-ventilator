@@ -54,7 +54,8 @@ The ideal project would be able to:
     ```diff 
     + volume 
     - pressure 
-    flow```
+    * flow
+    ```
 
 ### references
 * [A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719309/)
