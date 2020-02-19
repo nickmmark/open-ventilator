@@ -49,13 +49,15 @@ The ideal project would be able to:
 
 ### user interface
 * the ideal user interface should be intuitive and straightforward
-* ideas that I have
-  * color code the text 
+* ideas
+  * consistently color code the core concepts, both in the graphs and in the settings, so users connect a particular color to a particular concept:
     ```diff 
     + volume 
     - pressure 
     * flow
     ```
+  * imagine this curve with each colored appropriately:
+  ![](https://lh3.googleusercontent.com/proxy/WUhVWTUumVW4bOodXZmHeIo4K67XV_GO7d9ewP4P1pYKJGdfexay6J5e0IxfQQRPA6MgzgbxwnXk4RnAxDREs4FhQFLFCvH-wmwuNvuzVcQox8liPScmKX-PLKYkFENs-zMCHG5LDeo1NnZqdy8)
 
 ### references
 * [A Portable Ventilator with Integrated Physiologic Monitoring for Hyperpolarized 129Xe MRI in Rodents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6719309/)
